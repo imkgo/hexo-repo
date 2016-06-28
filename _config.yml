@@ -64,10 +64,10 @@ pagination_dir: page
 ## Plugins: http://hexo.io/plugins/
 ## Themes: http://hexo.io/themes/
 #theme: landscape
-theme: concise
+theme: yilia
 # Deployment
 ## Docs: http://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repository: git@github.com:FrankMeng1989/FrankMeng1989.github.io.git
+  repository: git@github.com:imkgo/imkgo.github.io.git
   branch: master
