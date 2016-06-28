@@ -7,6 +7,7 @@ tags: [Idea]
 在使用的时候发现version control log里面有乱码，如图：
 
 ![images](http://imkgo.github.io/img/idea/idea1.png)
+<!-- more -->
 # 问题分析
 首先想到的就是由于设置的字体导致的，字体不支持汉字？找遍了idea里面所有字体设置的地方，都是可以支持汉字的。所以我先放弃了从字体上去找原因。后来我想是不是因为我用的idea主题有问题，于是我把idea的主题切换回了自带的黑色主题。结果在去看的时候已经没有乱码了。这时候显示的字体是Monospaced，当我把字体切换回Consolas(这是我觉得看着最舒服的字体)，version control的乱码又出现了。于是我确定乱码还是跟字体有关系。
 

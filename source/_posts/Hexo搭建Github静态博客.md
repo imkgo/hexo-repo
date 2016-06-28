@@ -43,7 +43,7 @@ $ hexo server
 [info] Hexo is running at http://0.0.0.0:4000/. Press Ctrl+C to stop.
 ```
 表明Hexo Server已经启动了，在浏览器中打开 http://localhost:4000/, 这时可以看到Hexo已经为你生成了一篇blog。你可以按Ctrl+C 停止Server。
-
+<!-- more -->
 ### 3. 新建博客
 新打开一个命令窗口，执行下面的命令
 ``` bash
