@@ -4,7 +4,7 @@ tags: [Python]
 ---
 *微软Bing搜索网站每天都切换一张精美的图片作为背景，很多人都想使用Bing的背景图片作为桌面背景，网上也可以找到一些软件来每天同步Bing壁纸作为桌面。笔者不是很喜欢在电脑上每天开着这样的软件来完成切换桌面的功能，后来想是否可以通过Python写一个简单的程序来实现同样的任务呢，在网上搜索了一下，有这样想法的人还是有很多的，借鉴了很多网友的资料，实现了这样的功能。*
 
-![images](http://imkgo.github.io/img/bing/BluePondJapan_ZH-CN9068810300_1920x1080.jpg)
+![images](http://od178u7fa.bkt.clouddn.com/BluePondJapan_ZH-CN9068810300_1920x1080.jpg)
 
 <!-- more -->
 

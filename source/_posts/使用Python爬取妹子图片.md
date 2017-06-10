@@ -4,7 +4,7 @@ tags: [Python, 爬虫]
 ---
 > 某天看了一个爬虫的博客，发现了这么一个网址：http://www.zngirls.com/ 。
 
-![image](http://t1.onvshen.com:8080/gallery/24112/22261/s/009.jpg)
+![image](http://od178u7fa.bkt.clouddn.com/001.jpg)
 
 <!-- more -->
 ## 分析一下网页结构
