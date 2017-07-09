@@ -2,9 +2,9 @@ title: 使用Python爬取妹子图片
 date: 2017-03-25 14:44:16
 tags: [Python, 爬虫]
 ---
-> 某天看了一个爬虫的博客，发现了这么一个网址：http://www.zngirls.com/ 。
+> 很多人喜欢用Python写一写爬虫，写这个爬虫也是为了练手。选则爬取美女的图片是因为有一天也是看了这个关于爬虫的博客，可能因为有美女可以看，写这个爬虫更有意思一写吧。先选一个图片欣赏一下吧
 
-![image](http://od178u7fa.bkt.clouddn.com/001.jpg)
+![image](http://image.imkgo.net/blog_mv.jpg)
 
 <!-- more -->
 ## 分析一下网页结构
